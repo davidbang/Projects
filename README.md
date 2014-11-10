@@ -1,7 +1,7 @@
 Projects- David Bang
 ==================
 # Fall Semester
-Period 6
+Period 5
 
 ## Main Projects
 
