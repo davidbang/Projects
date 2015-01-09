@@ -5,12 +5,12 @@ Period 5
 
 ## Main Projects
 
-### TourSea
+### Ferries
 #### David Bang, Anish, Eric, Dionis, Elvin
 #### Description
 to be determined
-#### https://github.com/softDEAD/TourSea
-#### git@github.com:softDEAD/TourSea.git
+#### https://github.com/softDEAD/Ferries
+#### git@github.com:softDEAD/Ferries.git
 
 ### Language Interpreter/Data Scraping- Instant Answers Screen Scraper
 #### David Bang, Chesley Tan, Abrar Ahmed, Elvin Shoyfer
