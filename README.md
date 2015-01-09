@@ -6,7 +6,7 @@ Period 5
 ## Main Projects
 
 ### Ferries
-#### David Bang, Anish, Eric, Dionis, Elvin
+#### David Bang, Anish, Eric, Dionis
 #### Description
 to be determined
 #### https://github.com/softDEAD/Ferries
